@@ -1,0 +1,11 @@
+img{
+    height: 70px;
+}
+li{
+font-weight: 500;
+font-size: 14px;
+
+}
+li:hover{
+    background-color: cadetblue;
+}
